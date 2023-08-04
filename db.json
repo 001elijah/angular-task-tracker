@@ -13,10 +13,10 @@
       "reminder": false
     },
     {
-      "id": 3,
-      "text": "Food Shopping",
-      "day": "May 7th at 12:30pm",
-      "reminder": true
+      "text": "Go to gym",
+      "day": "04.08 18:30",
+      "reminder": true,
+      "id": 4
     }
   ]
 }
