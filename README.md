@@ -1,10 +1,15 @@
 # AngularTaskTracker
 
+The inspiration for creation of this project was a desire to discover Angular and Nest.js and compare them to React and Express. My conclusion upon completence of the project is that React is more flexible, but more vulnerable, and Angular in contrast is more secure hence it has more structure. Nest.js in it's turn is more convenient than vanilla Express, but it takes time to get used to it.
+
+The project is connected to my [nestjs-task-tracker-backend](https://github.com/001elijah/nestjs-task-tracker-backend).
+To run the project on your machine either clone the repository and run `npm start` or open the [GH live page](https://001elijah.github.io/angular-task-tracker/) the project is deployed on.
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.1.7.
 
 ## Development server
 
-Run `ng serve` and `npm run server` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
 
 ## Code scaffolding
 
